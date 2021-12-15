@@ -1,0 +1,8 @@
+# $HOME/.zshenv
+
+# === default macos path ===
+PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+
+# === source .zshrc ===
+source $HOME/.zshrc
+
