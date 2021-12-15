@@ -1,0 +1,14 @@
+" $PATH/.vimrc
+
+" --- syntax highlighting ---
+syntax on
+
+" --- show line numbers ---
+set number
+
+" --- no line wrapping ---
+set nowrap
+
+" --- set indents when wrapped ---
+set breakindent
+
